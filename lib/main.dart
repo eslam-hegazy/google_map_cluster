@@ -44,16 +44,16 @@ class MapSampleState extends State<MapSample> {
     Place(name: '5', latLng: LatLng(28.640217, 32.288199)),
     Place(name: '6', latLng: LatLng(30.531745, 31.387320)),
     // dsfd
-    Place(name: '6', latLng: LatLng(24.095205, 27.552776)),
-    Place(name: '6', latLng: LatLng(24.395723, 30.167522)),
-    Place(name: '6', latLng: LatLng(25.818278, 29.629192)),
-    Place(name: '6', latLng: LatLng(23.993200, 31.267383)),
-    Place(name: '6', latLng: LatLng(24.430604, 27.439367)),
-    Place(name: '6', latLng: LatLng(23.514333, 32.453283)),
-    Place(name: '6', latLng: LatLng(24.040990, 33.769981)),
-    Place(name: '6', latLng: LatLng(23.709088, 25.795462)),
-    Place(name: '6', latLng: LatLng(22.848123, 30.959001)),
-    Place(name: '6', latLng: LatLng(23.490463, 32.816512)),
+    Place(name: '7', latLng: LatLng(24.095205, 27.552776)),
+    Place(name: '8', latLng: LatLng(24.395723, 30.167522)),
+    Place(name: '9', latLng: LatLng(25.818278, 29.629192)),
+    Place(name: '10', latLng: LatLng(23.993200, 31.267383)),
+    Place(name: '11', latLng: LatLng(24.430604, 27.439367)),
+    Place(name: '12', latLng: LatLng(23.514333, 32.453283)),
+    Place(name: '13', latLng: LatLng(24.040990, 33.769981)),
+    Place(name: '14', latLng: LatLng(23.709088, 25.795462)),
+    Place(name: '15', latLng: LatLng(22.848123, 30.959001)),
+    Place(name: '16', latLng: LatLng(23.490463, 32.816512)),
 
   ];
 
